@@ -1,0 +1,7 @@
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\bin\Debug\SalesTaxApp.exe.config
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\bin\Debug\SalesTaxApp.exe
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\bin\Debug\SalesTaxApp.pdb
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\obj\Debug\SalesTaxApp.csprojResolveAssemblyReference.cache
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\obj\Debug\SalesTaxApp.csproj.CoreCompileInputs.cache
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\obj\Debug\SalesTaxApp.exe
+c:\users\neilv\source\repos\SalesTaxApp\SalesTaxApp\obj\Debug\SalesTaxApp.pdb
